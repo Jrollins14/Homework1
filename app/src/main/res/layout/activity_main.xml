@@ -32,6 +32,7 @@
         android:textStyle="bold"
         android:typeface="monospace"
         android:layout_above="@+id/imageView"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="53dp" />
 
 </RelativeLayout>
